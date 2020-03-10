@@ -9,15 +9,24 @@ Operating systems: https://www.youtube.com/watch?time_continue=63&v=26QPDBe-NB8&
 
 echo $0 (find my current shell) 
 
-Terminal navigation
+# Terminal navigation
 Open up terminal, cmd + space "terminal".
+
 pwd Figure out which directory you are currently in by "Printing the Working Directory".
+
 ls List the directories and files inside the current directory.
-ls -a include hidden files in the list of directories and files. This is helpful when trying to find hidden files like .git or .gitignore
+
+ls -a include hidden files in the list of directories and files. This is helpful when trying to find hidden files like .git or .gitignore.
+
 cd [folder] Go into the folder. e.g. cd Desktop/Developer
+
 cd This by itself will navigate all the way out to your Home Directory
+
 cd .. Back out to the parent directory of the current directory.
+
 open [file] Same as "double-clicking" a file or folder in finder.
+
 open . Opens the current folder or file in finder or it's default application.
+
 "clear" When you need a fresh Terminal window
 
