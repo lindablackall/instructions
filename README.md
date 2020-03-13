@@ -30,3 +30,8 @@ open . Opens the current folder or file in finder or it's default application.
 
 "clear" When you need a fresh Terminal window
 
+#PATH:-
+is an environment variable on Unix-like operating systems, DOS, OS/2, and Microsoft Windows, specifying a set of directories where executable programs are located. In general, each executing process or user session has its own PATH setting.
+
+
+
